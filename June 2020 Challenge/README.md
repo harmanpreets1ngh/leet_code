@@ -1,4 +1,4 @@
-# June Leetcoding Challenge
+# June Leet Code Challenge
 
 ## Week 1
    1. Invert Binary Tree - Problem [#2226](https://leetcode.com/problems/invert-binary-tree/)
