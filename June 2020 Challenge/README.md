@@ -1,8 +1,8 @@
 # June Leet Code Challenge
 
 ## Week 1
-   1. Invert Binary Tree - Problem [#2226](https://leetcode.com/problems/invert-binary-tree/)
-   2. 
+   1. Invert Binary Tree - Problem [#226](https://leetcode.com/problems/invert-binary-tree/)
+   2. Delete Node in a Linked List - Problem [#237](https://leetcode.com/problems/delete-node-in-a-linked-list/)
    3. 
    4. 
    5. 
