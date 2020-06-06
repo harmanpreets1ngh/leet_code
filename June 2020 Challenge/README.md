@@ -6,7 +6,7 @@
    3. Two City Scheduling - Problem [#1029](https://leetcode.com/problems/two-city-scheduling/)
    4. Reverse String - Problem [#344](https://leetcode.com/problems/reverse-string/)
    5. Random Pick with Weight - Problem [#528](https://leetcode.com/problems/random-pick-with-weight/)
-   6. 
+   6. Queue Reconstruction by Height - Problem [#406](https://leetcode.com/problems/queue-reconstruction-by-height/)
    7. 
 
 ## Week 2
