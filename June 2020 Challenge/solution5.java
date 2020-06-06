@@ -41,3 +41,21 @@ class Solution {
  * Solution obj = new Solution(w);
  * int param_1 = obj.pickIndex();
  */
+
+/*
+Hint:
+     0  1  2  3
+w = [1, 2, 4, 1]
+weights = [1, 3, 7, 8]
+wNew = [0, 1, 1, 2, 2, 2, 2, 3]
+
+w - 2 - 4/8 - 1/2
+  - 1 - 2/8 - 1/4
+
+dice - 5 - 1/6
+     - 3 - 1/6
+    
+coin - t - 1/2
+     - h - 1/2
+
+*/
