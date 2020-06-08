@@ -10,7 +10,13 @@
    7. Coin Change 2 - Problem [#518](https://leetcode.com/problems/coin-change-2/)
 
 ## Week 2
-  8. ...
+  8. Power of Two - Problem [#231](https://leetcode.com/problems/power-of-two/)
+  9. 
+  10. 
+  11. 
+  12. 
+  13. 
+  14. 
 
 ## Week 3
   15. ...
