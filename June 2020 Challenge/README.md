@@ -12,11 +12,6 @@
 ## Week 2
   8. Power of Two - Problem [#231](https://leetcode.com/problems/power-of-two/)
   9. 
-  10. 
-  11. 
-  12. 
-  13. 
-  14. 
 
 ## Week 3
   15. ...
