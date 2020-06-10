@@ -11,7 +11,8 @@
 
 ## Week 2
   8. Power of Two - Problem [#231](https://leetcode.com/problems/power-of-two/)
-  9. 
+  9. Is Subsequence - Problem [#392](https://leetcode.com/problems/is-subsequence/)
+  10. 
 
 ## Week 3
   15. ...
