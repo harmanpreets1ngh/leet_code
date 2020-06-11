@@ -13,7 +13,8 @@
   8. Power of Two - Problem [#231](https://leetcode.com/problems/power-of-two/)
   9. Is Subsequence - Problem [#392](https://leetcode.com/problems/is-subsequence/)
   10. Search Insert Position - Problem [#35](https://leetcode.com/problems/search-insert-position/)
-  11. 
+  11. Sort Colors - Problem [#75](https://leetcode.com/problems/sort-colors/)
+  12. 
 
 ## Week 3
   15. ...
