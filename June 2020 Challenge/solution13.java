@@ -1,5 +1,5 @@
 class Solution {
-	public List<Integer> largestDivisibleSubset(int[] nums) {
+    public List<Integer> largestDivisibleSubset(int[] nums) {
         
         List<Integer> res = new ArrayList();
          if (nums == null || nums.length == 0) {
@@ -8,7 +8,7 @@ class Solution {
         
         Arrays.sort(nums);
         List<List<Integer>> cache = new ArrayList();
-        for(int num: nums) { cache.add(new ArrayList()); }
+        for(int num: nums) cache.add(new ArrayList(List.of(num)));
         
         for(int i = 0; i < nums.length; i++){
             List<Integer> newSet = new ArrayList();
@@ -18,7 +18,6 @@ class Solution {
                     newSet = cache.get(j);
                 }
             }    
-            cache.get(i).add(nums[i]);
             cache.get(i).addAll(newSet);      
         }
         
